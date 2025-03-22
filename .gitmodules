@@ -1,0 +1,15 @@
+[submodule "server-user"]
+	path = server-user
+	url = https://github.com/XRPL-Hackathon/server-user
+[submodule "server-transaction"]
+	path = server-transaction
+	url = https://github.com/XRPL-Hackathon/server-transaction
+[submodule "server-document"]
+	path = server-document
+	url = https://github.com/XRPL-Hackathon/server-document
+[submodule "server-ai-proxy"]
+	path = server-ai-proxy
+	url = https://github.com/XRPL-Hackathon/server-ai-proxy
+[submodule "server-ai"]
+	path = server-ai
+	url = https://github.com/XRPL-Hackathon/server-ai
