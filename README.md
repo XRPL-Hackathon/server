@@ -1,4 +1,4 @@
-#XRPL-Hackathon / XRPedia 에 전체 소스 코드가 있습니다.
+# XRPL-Hackathon / XRPedia 에 전체 소스 코드가 있습니다.
 
 
 # Git Commit Convention & Branch Rules
